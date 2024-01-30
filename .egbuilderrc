@@ -1,0 +1,4 @@
+repo: github.com/my/repo
+controllers: []
+filters:
+    - MyFilter1
