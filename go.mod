@@ -1,4 +1,4 @@
-module github.com/my/repo
+module github.com/LegendBoyWonder/easegressTestFilter
 
 go 1.20
 
